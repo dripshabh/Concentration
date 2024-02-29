@@ -1,0 +1,12 @@
+CONCENTRATION INSTRUCTIONS:
+- The object of the game is to turn over pairs of matching cards using a standard 52-card deck.
+- A pair is determined by rank (the number on the card) and color (the color on the card).
+- If a pair is found, the pair will remained flipped up for the rest of the game, and the score is increased by 100 points.
+- If a pair is not found, the cards will be flipped after a new card is clicked on.
+- The game is complete once every pair has been found.
+
+CONTROLS:
+- Clicking on a card with the mouse will flip over cards
+- Hitting "r" at any time will start a new game, with new cards.
+- Hitting "s" at any time will solve the entire board, however this does not count towards your score and the game technically hasn't been beaten. You will have to reset the board.
+- Hitting "f" at any time will flip over the missing pair of the currently active card(s). The rules from above for scoring and game completion apply here as well. NOTE: If you have two cards currently flipped over (neither of them are pairs), you must press "e" twice to flip over the pairs for both cards.
